@@ -1,6 +1,6 @@
 # ctse-workshops
 
-### Workshops
+### React Workshops
 
 |Name| Description |
 |:--:|:----------:|
