@@ -14,7 +14,7 @@ The projecst are organized into seperate branches based on the workshop and diff
 ### React Workshops
 
 | Name | Description | Difficulty |
-|:--:|:----------:| :------------: |
+|:-- |:---------- | :------------ |
 |[react-coffee-shop](https://github.com/EarlMcCard/ctse-workshops/tree/react-coffee-shop)| Intro to React: Build a Coffee Shop | Beginner |
 |[react-pizza-shop](https://github.com/EarlMcCard/ctse-workshops/tree/react-pizza-shop)| Intro to React: Build a Pizza Shop | Beginner |
 |[react-travel-site](https://github.com/EarlMcCard/ctse-workshops/tree/react-travel-site)| Advanced React: Multi-Step Form Travel Site | Advanced |
