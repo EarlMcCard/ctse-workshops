@@ -15,9 +15,9 @@ The projecst are organized into seperate branches based on the workshop and diff
 
 | Name | Description | Difficulty |
 |:--:|:----------:| :------------: |
-|[React Coffee Shop](https://github.com/EarlMcCard/ctse-workshops/tree/react-coffee-shop)| Intro to React: Build a Coffee Shop | Beginner |
-|[React Pizza Shop](https://github.com/EarlMcCard/ctse-workshops/tree/react-pizza-shop)| Intro to React: Build a Pizza Shop | Beginner |
-|[React Travel Site](https://github.com/EarlMcCard/ctse-workshops/tree/react-travel-site)| Advanced React: Multi-Step Form Travel Site | Advanced |
+|[react-coffee-shop](https://github.com/EarlMcCard/ctse-workshops/tree/react-coffee-shop)| Intro to React: Build a Coffee Shop | Beginner |
+|[react-pizza-shop](https://github.com/EarlMcCard/ctse-workshops/tree/react-pizza-shop)| Intro to React: Build a Pizza Shop | Beginner |
+|[react-travel-site](https://github.com/EarlMcCard/ctse-workshops/tree/react-travel-site)| Advanced React: Multi-Step Form Travel Site | Advanced |
 
 ---
 **Connect with me:** [www.linkedin.com/in/earl-mccard-phl] | **Certification:** [Coding Temple Link (if available)]
